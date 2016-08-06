@@ -1,0 +1,30 @@
+- name:   'Danny van Dyk'
+  status: 'active'
+  mail:   'danny.van.dyk@gmail.com'
+
+- name:   'Christoph Bobeth'
+  status: 'active'
+  mail:   'christoph.bobeth@gmail.com'
+
+- name:   'Frederik Beaujean'
+  status: 'active'
+  mail:   'beaujean@mpp.mpg.de'
+
+- name:   'Marzia Bordone'
+  status: 'active'
+  mail:   'mbordone@physik.uzh.ch'
+
+- name:   'Christian Wacker'
+  status: 'retired'
+
+- name:   'Ismo Toijala'
+  status: 'retired'
+
+- name:   'Ayan Paul'
+  status:
+
+- name:   'Stephan Jahn'
+  status: 'retired'
+
+- name:   'Martin Gorbahn'
+  status: 'retired'
