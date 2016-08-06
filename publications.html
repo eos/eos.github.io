@@ -1,0 +1,41 @@
+---
+layout: page
+title: List of publications
+---
+
+<! vim: set sts=4 et :>
+
+<p>
+EOS has been used in several publications, which are listed here. If you have used EOS
+in a publication yourself, please contact us to include your work in this list.
+</p>
+
+<div style="position: absolute">
+<table>
+    <tr>
+        <th>#</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>Preprint</th>
+    </tr>
+    {% for year in site.data.publications %}
+        <tr>
+            <th colspan="4">{{ year.year }}</th>
+        </tr>
+        {% for item in year.items %}
+            <tr>
+                <td>EOS-{{ year.year }}-{{ item.id }}</td>
+                <td>{{ item.title }}</td>
+                <td style="vertical-align: middle">
+                    <ul style="list-style-type: none; padding-left: 0">
+                        {% for author in item.authors %}
+                        <li>{{ author }}</li>
+                        {% endfor %}
+                    </ul>
+                </td>
+                <td><a href="http://arxiv.org/abs/{{ item.arxiv }}">{{ item.arxiv }}</a></td>
+            </tr>
+        {% endfor %}
+    {% endfor %}
+</table>
+</div>

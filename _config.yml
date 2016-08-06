@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+gems:             [ jekyll-paginate ]
+
+# Setup
+title:            'EOS'
+tagline:          'A HEP program for flavor physics'
+description:      ''
+url:              http://project.het.physik.tu-dortmund.de/eos
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+github:
+  repo:           https://github.com/eos/eos/
+
+doi:              10.5281/zenodo.50968

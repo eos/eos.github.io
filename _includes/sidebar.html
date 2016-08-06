@@ -1,0 +1,37 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <img src="/public/eos-logo-160x90.png" />
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
+        <a href="/">Home</a>
+      </li>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+              <a href="{{ node.url }}">{{ node.title }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+    </ul>
+    <div class="sidebar-about">
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
+      <li class="sidebar-nav-item">The most recent release is:<br/><a href="http://dx.doi.org/{{ site.doi }}"><img src="https://zenodo.org/badge/doi/{{ site.doi }}.svg" /></a></li>
+      <li class="sidebar-nav-item">Current build status:<br/><img src="https://travis-ci.org/eos/eos.svg?branch=master" /></li>
+    </ul>
+    </div>
+  </div>
+</div>

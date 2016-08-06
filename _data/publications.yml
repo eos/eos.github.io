@@ -1,0 +1,75 @@
+- year: '2016'
+  items:
+      - id:      '02'
+        title:   'Using &Lambda;<sub>b</sub> &#8594; &Lambda; &mu;<sup>+</sup> &mu;<sup>-</sup> data in a Bayesian analysis of |&Delta; B| = |&Delta; S| = 1 decays'
+        authors: [ 'S.&nbsp;Meinel', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1603.02974'
+      - id:      '01'
+        title:   'Impact of leptonic &tau; decays on the distribution of B &#8594; P &mu; &nu; decays'
+        authors: [ 'M.&nbsp;Bordone', 'G.&nbsp;Isidori', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1602.06143'
+- year: '2015'
+  items:
+      - id:      '03'
+        title:   'Constraints on tensor and scalar couplings from B &#8594; K &mu; &mu; and B<sub>s</sub> &#8594; &mu; &mu;'
+        authors: [ 'F.&nbsp;Beaujean', 'Ch.&nbsp;Bobeth', 'S.&nbsp;Jahn' ]
+        arxiv:   '1508.01526'
+
+      - id:      '02'
+        title:   'Zero-Recoil Sum Rules for &Lambda;<sub>b</sub> &#8594; &Lambda;<sub>c</sub> form factors'
+        authors: [ 'Th.&nbsp;Mannel', 'D.&nbsp;van Dyk' ]
+        arxiv:   '1506.08780'
+      - id:      '03'
+        title:   'Analyzing b &#8594; u transitions in semileptonic <span style="text-decoration:overline">B</span><sub>s</sub> &#8594; K<sup>*+</sup>(&#8594; K &pi;)&ell;<sup>-</sup>&nu;&#773;<sub>&ell;</sub> decays'
+        authors: [ 'Th.&nbsp;Feldmann', 'B.&nbsp;M&uuml;ller', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1503.09063'
+- year: '2014'
+  items:
+      - id:      '02'
+        title:   'Extrapolation and unitarity bounds for the B &#8594; &pi; form factor'
+        authors: [ 'I.S.&nbsp;Imsong', 'A.&nbsp;Khodjamirian', 'Th.&nbsp;Mannel', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1409.7816'
+      - id:      '01'
+        title:   'Angular Analysis of the Decays &Lambda;<sub>b</sub> &#8594; &Lambda;&ell;<sup>+</sup> &ell;<sup>-</sup>'
+        authors: [ 'P.&nbsp;B&ouml;er', 'Th.&nbsp;Feldmann', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1410.2115'
+- year: '2013'
+  items:
+      - id:      '01'
+        title:   'Comprehensive Bayesian Analysis of Rare (Semi)leptonic and Radiative B Decays'
+        authors: [ 'F.&nbsp;Beaujean', 'Ch.&nbsp;Bobeth', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1310.2478'
+- year: '2012'
+  items:
+      - id:      '03'
+        title:   'Implications of the experimental results on rare b &#8594; s + (&gamma;, &ell;<sup>+</sup> &ell;<sup>-</sup>) decays'
+        authors: [ 'F.&nbsp;Beaujean', 'Ch.&nbsp;Bobeth', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1301.0346'
+      - id:      '02'
+        title:   'General Analysis of B &#8594; K<sup>(*)</sup> &ell;<sup>+</sup> &ell;<sup>-</sup> at Low Hadronic Recoil'
+        authors: [ 'Ch.&nbsp;Bobeth', 'G.&nbsp;Hiller', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1212.2321'
+      - id:      '01'
+        title:   'Bayesian Fit of Exclusive b &#8594; s &ell;<sup>+</sup> &ell;<sup>-</sup> Decays: The Standard Model Operator Basis'
+        authors: [ 'F.&nbsp;Beaujean', 'Ch.&nbsp;Bobeth', 'D.&nbsp;van&nbsp;Dyk', 'Ch.&nbsp;Wacker' ]
+        arxiv:   '1205.1838'
+- year: '2011'
+  items:
+      - id:      '03'
+        title:   'The Decay B &#8594; K &ell;<sup>+</sup> &ell;<sup>-</sup> at Low Hadronic Recoil and Model-Independent Delta B = 1 Constraints'
+        authors: [ 'Ch.&nbsp;Bobeth', 'G.&nbsp;Hiller', 'D.&nbsp;van&nbsp;Dyk', 'Ch.&nbsp;Wacker' ]
+        arxiv:   '1111.2558'
+      - id:      '02'
+        title:   'Angular Analysis of B &#8594; V (&#8594; P1 P2) &ell;&#773; &ell; Decays'
+        authors: [ 'Ch.&nbsp;Bobeth', 'G.&nbsp;Hiller', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1105.2659'
+      - id:      '01'
+        title:   'More Benefits of Semileptonic Rare B Decays at Low Recoil: CP Violation'
+        authors: [ 'Ch.&nbsp;Bobeth', 'G.&nbsp;Hiller', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1105.0376'
+- year: '2010'
+  items:
+      - id:      '03'
+        title:   'The Benefits of B &#8594; K<sup>*</sup> &ell;<sup>+</sup> &ell;<sup>-</sup> at Low Recoil'
+        authors: [ 'Ch.&nbsp;Bobeth', 'G.&nbsp;Hiller', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1006.5013'
