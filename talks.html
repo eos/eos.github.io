@@ -1,0 +1,30 @@
+---
+layout: page
+title: List of presentations
+---
+
+<! vim: set sts=4 et :>
+
+<p>
+The following presentations involved the use of EOS, to varying degree.
+</p>
+
+<div style="position: absolute">
+<table>
+    <tr>
+        <th>Venue</th>
+        <th>Presenter</th>
+    </tr>
+    {% for year in site.data.talks %}
+        <tr>
+            <th colspan="2">{{ year.year }}</th>
+        </tr>
+        {% for item in year.items %}
+            <tr>
+                <td><a href="{{ item.file }}">{{ item.venue }}</a></td>
+                <td>{{ item.presenter }}</td>
+            </tr>
+        {% endfor %}
+    {% endfor %}
+</table>
+</div>

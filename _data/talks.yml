@@ -1,0 +1,127 @@
+- year:  '2016'
+  items:
+      - venue: 'TU Dortmund, Theory Seminar'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-dortmund-2016.pdf'
+
+      - venue: 'DPG Spring Conference, 2016, Hamburg'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-dpg-2016.pdf'
+
+- year:  '2015'
+  items:
+      - venue: '5th Workshop on Implications of LHCb Measurements and Future Prospects (V<sub>ub</sub>), 2015, CERN'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-cern+vub-2015.pdf'
+
+      - venue: '5th Workshop on Implications of LHCb Measurements and Future Prospects (&Lambda;<sub>b</sub>), 2015, CERN'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-cern+lambdab-2015.pdf'
+
+      - venue: 'B2TIP Workshop New Physics at Belle II, 2015, Karlsruhe'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-karlsruhe-2015.pdf'
+
+      - venue: 'B2TIP Workshop New Physics at Belle II, 2015, Karlsruhe'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-karlsruhe-2015.pdf'
+
+
+- year:  '2014'
+  items:
+      - venue: 'Invited talk at the NIKHEF theory seminar, 2014, Amsterdam'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-nikhef-2014.pdf'
+
+      - venue: '4th Workshop on flavour symmetries and consequences in accelerators and cosmology, 2014, Brighton'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-brighton-2014.pdf'
+
+
+- year:  '2013'
+  items:
+      - venue: 'ERC Workshop, Towards the construction of the fundamental theory of flavour, 2013, Munich'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-erc-2013.pdf'
+
+      - venue: '3rd Workshop on Implications of LHCb Measurements and Future Prospects, 2013, CERN'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-cern-2013.pdf'
+
+      - venue: 'UK Flavor Workshop 2013, Durham'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-durham-2013.pdf'
+
+      - venue: '2013 European Physical Society Conference on High Energy Physics, Stockholm'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-stockholm-2013.pdf'
+
+      - venue: '14th International Conference on B-Physics at Hadron Machines, Bologna'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-bologna-2013.pdf'
+
+
+- year:  '2012'
+  items:
+      - venue: 'QFET Seminar, Siegen'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-siegen-2012.pdf'
+
+      - venue: '7th International Workshop on the CKM Unitarity Triangle, Cincinnati'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-CKM-2012.pdf'
+
+
+- year:  '2011'
+  items:
+      - venue: 'Workshop "Implications of LHCb measurements and future prospects", CERN QFET Seminar, Siegen'
+        presenter: 'Christoph Bobeth<br/>Danny van Dyk'
+        file: 'cbobeth+dvandyk-lhcb-2011.pdf'
+
+      - venue: '5th Annual Workshop of the Helmholtz Alliance "Physics at the Terascale" '
+        presenter: 'Christian Wacker'
+        file: 'cwacker-bonn-2011.pdf'
+
+      - venue: 'TU Dortmund, BSM Seminar'
+        presenter: 'Christian Wacker'
+        file: 'cwacker-dortmund-2011.pdf'
+
+      - venue: 'Decays @ Low Recoil (bsll2011) - DESY, Germany'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-DESY-2011.pdf'
+
+      - venue: 'Decays @ Low Recoil (bsll2011) - DESY, Germany'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-DESY-2011.pdf'
+
+      - venue: 'XVII SuperB Workshop and Kick Off Meeting - La Biodola (Isola d&#39;Elba), Italy'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-SuperB-2011.pdf'
+
+      - venue: 'TU Dortmund, BSM Seminar'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-dortmund-2011.pdf'
+
+      - venue: 'DPG Frühjahrstagung, Karlsruhe'
+        presenter: 'Christian Wacker'
+        file: 'cwacker-karlsruhe-2011.pdf'
+
+
+- year:  '2011'
+  items:
+      - venue: 'DISCRETE 2010 (Rome)'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-discrete-2010.pdf'
+
+      - venue: 'Lattice meets Phenomenology (IPPP, Durham)'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-durham-2010.pdf'
+
+      - venue: 'DESY Hamburg, SUSY/BSM Fitting Working Group'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-hamburg-2010.pdf'
+
+      - venue: 'Sussex University, iNExT Workshop'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-sussex-2010.pdf'
+
