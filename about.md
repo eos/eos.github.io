@@ -4,6 +4,17 @@ title: About
 ---
 
 EOS is a software framework for use in High Energy Physics, specifically Quark Flavor Physics.
+Its use cases include
+
+  - accurate and precise prediction of flavor observables,
+  - parameter inference from both experimental and theoretical constraints using Baysian statistics,
+  - production of Monte Carlo samples from signal PDF of flavor processes.
+
+The above can be achieved through use of existing client programs. Beyond those, EOS features
+both a C++ and a Python interface.
+
+For information on installation, usage and the library interface, we refer to the
+<a href="/manual/manual.pdf">manual</a>.
 
 ## Attributions
 
