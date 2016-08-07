@@ -12,10 +12,6 @@ tagline:          'A HEP program for flavor physics'
 description:      ''
 url:              http://project.het.physik.tu-dortmund.de/eos
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
 paginate:         5
 
 github:
