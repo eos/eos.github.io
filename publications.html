@@ -23,8 +23,8 @@ in a publication yourself, please contact us to include your work in this list.
             <th colspan="4">{{ year.year }}</th>
         </tr>
         {% for item in year.items %}
-            <tr>
-                <td>EOS-{{ year.year }}-{{ item.id }}</td>
+            <tr id="EOS-{{ year.year }}-{{ item.id }}">
+                <td><a href="#EOS-{{ year.year }}-{{ item.id }}">EOS-{{ year.year }}-{{ item.id }}</a></td>
                 <td>{{ item.title }}</td>
                 <td style="vertical-align: middle">
                     <ul style="list-style-type: none; padding-left: 0">
