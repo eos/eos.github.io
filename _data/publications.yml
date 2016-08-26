@@ -1,5 +1,9 @@
 - year: '2016'
   items:
+      - id:      '04'
+        title:   'QCD Factorization Theorem for B &#8594; &pi; &pi; &ell; &nu; Decays at Large Dipion Masses'
+        authors: [ 'P.&nbsp;B&ouml;er', 'Th.&nbsp;Feldmann', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1608.07127'
       - id:      '02'
         title:   'Using &Lambda;<sub>b</sub> &#8594; &Lambda; &mu;<sup>+</sup> &mu;<sup>-</sup> data in a Bayesian analysis of |&Delta; B| = |&Delta; S| = 1 decays'
         authors: [ 'S.&nbsp;Meinel', 'D.&nbsp;van&nbsp;Dyk' ]
