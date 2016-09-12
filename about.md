@@ -23,10 +23,10 @@ all the theoretical works whose numerical implementations you use. If in doubt,
 please contact one of the authors. To cite eos, you can use this bibtex snippet
 
     @misc{EOS,
-          author         = "van Dyk, Danny and others",
-          title          = "{EOS --- A HEP program for Flavor Observables}",
-          note           = "\url{https://eos.github.io}",
-          year           = "2016",
+          author = "van Dyk, Danny and others",
+          title  = "{EOS --- A HEP program for Flavor Observables}",
+          note   = "\url{https://eos.github.io}",
+          year   = "2016",
     }
 
 ## Contributors
