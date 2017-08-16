@@ -1,3 +1,9 @@
+- year: '2017'
+  items:
+      - id:      '01'
+        title:   'Long-distance effects in B &#8594; K<sup>*</sup> &ell; &ell; from Analyticity'
+        authors: [ 'Ch.&nbsp;Bobeth', 'M.&nbsp;Chrzaszcz', 'D.&nbsp;van&nbsp;Dyk', 'J.&nbsp;Virto' ]
+        arxiv:   '1707.07305'
 - year: '2016'
   items:
       - id:      '04'
