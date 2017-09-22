@@ -4,6 +4,10 @@
         presenter: 'Danny van Dyk'
         file: 'dvandyk-dortmund-2016.pdf'
 
+      - venue: 'B2TIP meeting on theory codes, LAL, Orsay'
+        presenter: 'Christoph Bobeth'
+        file: 'cbobeth-orsay-2016.pdf'
+
       - venue: 'DPG Spring Conference, 2016, Hamburg'
         presenter: 'Danny van Dyk'
         file: 'dvandyk-dpg-2016.pdf'
