@@ -1,5 +1,9 @@
 - year: '2017'
   items:
+      - id:      '02'
+        title:   'Angular distribution of polarised &Lambda;<sub>b</sub> baryons decaying to &Lambda; &ell;<sup>+</sup> &ell;<sup>-</sup>'
+        authors: [ 'Th.&nbsp;Blake', 'M.&nbsp;Kreps' ]
+        arxiv:   '1710.00746'
       - id:      '01'
         title:   'Long-distance effects in B &#8594; K<sup>*</sup> &ell; &ell; from Analyticity'
         authors: [ 'Ch.&nbsp;Bobeth', 'M.&nbsp;Chrzaszcz', 'D.&nbsp;van&nbsp;Dyk', 'J.&nbsp;Virto' ]
