@@ -17,4 +17,10 @@ paginate:         5
 github:
   repo:           https://github.com/eos/eos/
 
+packagecloud:
+  repo:           https://packagecloud.io/eos
+
+travisci:
+  repo:           https://travis-ci.org/eos/eos
+
 doi:              10.5281/zenodo.50968

@@ -29,11 +29,25 @@
     <div class="sidebar-about">
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item">The most recent release is:<br/><a href="http://dx.doi.org/{{ site.doi }}"><img src="https://zenodo.org/badge/doi/{{ site.doi }}.svg" /></a></li>
-      <li class="sidebar-nav-item">EOS is being developed at Github</li>
+      <li class="sidebar-nav-item" style="margin-bottom: -15px">
+          <a href="https://github.com"><img src="images/github-logo.png" width="30%"/></a>
+      </li>
       <ul>
           <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Source</a></li>
           <li class="sidebar-nav-item"><a href="{{ site.github.repo }}/issues">Issue Tracker</a></li>
-          <li class="sidebar-nav-item">Current build status:<br/><img src="https://travis-ci.org/eos/eos.svg?branch=master" /></li>
+      </ul>
+      <li class="sidebar-nav-item" style="margin-bottom: -15px">
+          <a href="https://travis-ci.org"><img src="images/travisci-logo.png" width="35%"/></a>
+      </li>
+      <ul>
+          <li class="sidebar-nav-item"><img src="{{ site.travisci.repo }}.svg?branch=master" /></li>
+      </ul>
+      <li class="sidebar-nav-item" style="margin-bottom: -15px">
+          <a href="https://packagecloud.io"><img src="images/packagecloud-logo.png" width="55%"/></a>
+      </li>
+      <ul>
+          <li class="sidebar-nav-item"><a href="https://packagecloud.io/app/eos/eos/search?dist=ubuntu%2Ftrusty">Ubuntu 14.04 (Trusty)</a></li>
+          <li class="sidebar-nav-item"><a href="https://packagecloud.io/app/eos/eos/search?dist=ubuntu%2Fxenial">Ubuntu 16.04 (Xenial)</a></li>
       </ul>
     </ul>
     </div>
