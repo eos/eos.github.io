@@ -23,4 +23,4 @@ packagecloud:
 travisci:
   repo:           https://travis-ci.org/eos/eos
 
-doi:              10.5281/zenodo.50968
+doi:              10.5281/zenodo.886055
