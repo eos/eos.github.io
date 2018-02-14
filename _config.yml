@@ -23,4 +23,8 @@ packagecloud:
 travisci:
   repo:           https://travis-ci.org/eos/eos
 
+coveralls:
+  repo:           https://coveralls.io/github/eos/eos
+  badge:          https://coveralls.io/repos/github/eos/eos/badge.svg
+
 doi:              10.5281/zenodo.886055
