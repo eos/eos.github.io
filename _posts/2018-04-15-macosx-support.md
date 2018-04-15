@@ -15,7 +15,7 @@ installation on MacOS via the Homebrew package manager is documented in the
 [manual](manual/manual.pdf).  The minimal commands necessary to build the most
 recent development version are
 
-```
+~~~bash
 brew tap eos/homebrew-eos
 brew install --HEAD eos
-```
+~~~
