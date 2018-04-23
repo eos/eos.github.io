@@ -16,6 +16,6 @@ installation on MacOS via the Homebrew package manager is documented in the
 recent development version are
 
 ~~~bash
-brew tap eos/homebrew-eos
+brew tap eos/eos
 brew install --HEAD eos
 ~~~
