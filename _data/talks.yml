@@ -1,3 +1,9 @@
+- year:  '2017'
+  items:
+      - venue: 'SM@LHC, 2017, Nikhef Amsterdam'
+        presenter: 'Danny van Dyk'
+        file: 'dvandyk-amsterdam-2017.pdf'
+
 - year:  '2016'
   items:
       - venue: 'TU Dortmund, Theory Seminar'
