@@ -1,3 +1,9 @@
+- year:  '2018'
+  items:
+      - venue: 'MITP, 2018, Challenges in Semileptonic B Decays'
+        presenter: 'Nico Gubenari'
+        file: 'gubernari-mainz-2018.pdf'
+
 - year:  '2017'
   items:
       - venue: 'SM@LHC, 2017, Nikhef Amsterdam'
