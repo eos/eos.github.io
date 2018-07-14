@@ -1,3 +1,9 @@
+- year: '2018'
+  items:
+      - id:      '01'
+        title:   'Revisiting B &rarr; &pi; &pi; &ell; &nu; at Large Dipion Masses'
+        authors: [ 'Th.&nbsp;Feldmann', 'D.&nbsp;van&nbsp;Dyk', 'K.&nbsp;K.&nbsp;Vos' ]
+        arxiv:   '1807.01924'
 - year: '2017'
   items:
       - id:      '02'
