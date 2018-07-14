@@ -18,6 +18,17 @@
   status: 'active'
   mail:   'thomas.blake@cern.ch'
 
+- name:   'Nico Gubernari'
+  status: 'active'
+  mail:   'nicogubernari@gmail.com'
+
+- name:   'Ahmet Kokulu'
+  status: 'active'
+  mail:   'ahmetkokulu@gmail.com'
+
+- name:   'Eduardo Romero'
+  status: 'active'
+
 - name:   'Christian Wacker'
   status: 'retired'
 
