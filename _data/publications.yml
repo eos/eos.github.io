@@ -1,5 +1,9 @@
 - year: '2018'
   items:
+      - id:      '02'
+        title:   'B &#8594; P and B &#8594; V Form Factors from B-Meson Light-Cone Sum Rules beyond Leading Twist'
+        authors: [ 'N.&nbsp;Gubernari', 'A.&nbsp;Kokulu', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1811.00983'
       - id:      '01'
         title:   'Revisiting B &rarr; &pi; &pi; &ell; &nu; at Large Dipion Masses'
         authors: [ 'Th.&nbsp;Feldmann', 'D.&nbsp;van&nbsp;Dyk', 'K.&nbsp;K.&nbsp;Vos' ]
