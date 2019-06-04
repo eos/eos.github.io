@@ -1,0 +1,329 @@
+- title: Observables in (semi)leptonic $b$-hadron decays
+  groups:
+  - title: Observables in $B^-\to \ell^-\bar\nu$ decays
+    desc: The option "l" selects the charged lepton flavour.
+    entries:
+    - qn: B_u->lnu::BR
+      latex: \mathcal{B}(B^- \to \ell^-\bar\nu)
+  - title: Observables in $B\to \pi \ell^-\bar\nu$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour. The option "form-factors" selects the form factor
+      parametrization.
+    entries:
+    - qn: B->pilnu::BR
+      latex: \mathcal{B}(B\to\pi\ell^-\bar\nu)
+    - qn: B->pilnu::dBR/dq2
+      latex: d\mathcal{B}(B\to\pi\ell^-\bar\nu)/dq^2
+  - title: Observables in $B\to \bar{D} \ell^-\bar\nu$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour. The option "form-factors" selects the form factor
+      parametrization.
+    entries:
+    - qn: B->Dlnu::A_FB
+      latex: A_{\text{FB}}(B\to \bar{D}\ell^-\bar\nu)
+    - qn: B->Dlnu::A_FB(q2)
+      latex: A_{\text{FB}}(B\to \bar{D}\ell^-\bar\nu)(q^2)
+    - qn: B->Dlnu::BR
+      latex: \mathcal{B}(B\to \bar{D}\ell^-\bar\nu)
+    - qn: B->Dlnu::dBR/dq2
+      latex: d\mathcal{B}(B\to \bar{D}\ell^-\bar\nu)/dq^2
+  - title: Observables in $B\to \bar{D}^* \ell^-\bar\nu$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour. The option "form-factors" selects the form factor
+      parametrization.
+    entries:
+    - qn: B->D^*lnu::A_C^1
+      latex: A_{\text{C}}^1(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::A_C^2
+      latex: A_{\text{C}}^2(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::A_C^3
+      latex: A_{\text{C}}^3(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::A_FB
+      latex: A_{\text{FB}}(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::A_FB(q2)
+      latex: A_{\text{FB}}(B\to \bar{D}^*\ell^-\bar\nu)(q^2)
+    - qn: B->D^*lnu::A_T^1
+      latex: A_{\text{T}}^1(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::A_T^2
+      latex: A_{\text{T}}^2(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::A_T^3
+      latex: A_{\text{T}}^3(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::BR
+      latex: \mathcal{B}(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::F_L
+      latex: F_{\text{L}}(B\to \bar{D}^*\ell^-\bar\nu)
+    - qn: B->D^*lnu::dBR/dq2
+      latex: d\mathcal{B}(B\to \bar{D}^*\ell^-\bar\nu)/dq^2
+  - title: Observables in $B_s\to \bar{K}^* \ell^-\bar\nu$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "form-factors"
+      selects the form factor parametrization.
+    entries:
+    - qn: B_s->K^*lnu::dBR/ds
+      latex: d\mathcal{B}(B_s\to \bar{K}^*\ell^-\bar\nu)/dq^2
+  - title: Observables in $\Lambda_b\to \Lambda_c \ell^-\bar\nu$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "form-factors"
+      selects the form factor parametrization.
+    entries:
+    - qn: Lambda_b->Lambda_c(2595)lnu::BR
+      latex: \mathcal{B}(\Lambda_b\to\Lambda_c(2595) \ell^-\bar\nu)
+    - qn: Lambda_b->Lambda_c(2625)lnu::BR
+      latex: \mathcal{B}(\Lambda_b\to\Lambda_c(2625) \ell^-\bar\nu)
+    - qn: Lambda_b->Lambda_clnu::A_FB^c(q2)
+      latex: A_{\text{FB}}^{h\ell}(\Lambda_b\to\Lambda_c \ell^-\bar\nu)(q^2)
+    - qn: Lambda_b->Lambda_clnu::A_FB^h(q2)
+      latex: A_{\text{FB}}^h(\Lambda_b\to\Lambda_c \ell^-\bar\nu)(q^2)
+    - qn: Lambda_b->Lambda_clnu::A_FB^l(q2)
+      latex: A_{\text{FB}}^\ell(\Lambda_b\to\Lambda_c \ell^-\bar\nu)(q^2)
+    - qn: Lambda_b->Lambda_clnu::BR
+      latex: \mathcal{B}(\Lambda_b\to\Lambda_c \ell^-\bar\nu)
+    - qn: Lambda_b->Lambda_clnu::F_0(q2)
+      latex: F_0(\Lambda_b\to\Lambda_c \ell^-\bar\nu)(q^2)
+    - qn: Lambda_b->Lambda_clnu::dBR/dq2
+      latex: d\mathcal{B}(\Lambda_b\to\Lambda_c \ell^-\bar\nu)/dq^2
+  - title: Miscellaneous matrix elements
+    desc: ''
+    entries: []
+- title: Observables in rare (semi)leptonic and radiative $b$-hadron decays
+  groups:
+  - title: Observables in $B_q \to \ell^+\ell^-$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour.
+    entries:
+    - qn: B_q->ll::A_DeltaGamma
+      latex: \mathcal{A}_{\Delta\Gamma}(B_q \to \ell^+\ell^-)
+    - qn: B_q->ll::BR
+      latex: \mathcal{B}(B_q \to \ell^+\ell^-)
+    - qn: B_q->ll::BR@Untagged
+      latex: \left\langle\mathcal{B}(B_q \to \ell^+\ell^-)\right\rangle
+    - qn: B_q->ll::S
+      latex: \mathcal{S}(B_q \to \ell^+\ell^-)
+    - qn: B_q->ll::eff_lifetime
+      latex: \langle\tau\rangle(B_q \to \ell^+\ell^-)
+  - title: Observables in $B_q \to P \ell^+\ell^-$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour.
+    entries:
+    - qn: B->Kll::A_CP@LargeRecoil
+      latex: A_\text{CP}(\bar{B}\to \bar{K}\ell^+\ell^-)
+    - qn: B->Kll::A_FB(s)@LargeRecoil
+      latex: A_\text{FB}(\bar{B}\to \bar{K}\ell^+\ell^-)(q^2)
+    - qn: B->Kll::A_FB@LargeRecoil
+      latex: A_\text{FB}(\bar{B}\to \bar{K}\ell^+\ell^-)
+    - qn: B->Kll::BR@LargeRecoil
+      latex: \mathcal{B}(\bar{B}\to \bar{K}\ell^+\ell^-)
+    - qn: B->Kll::F_H(s)@LargeRecoil
+      latex: F_\text{H}(\bar{B}\to \bar{K}\ell^+\ell^-)(q^2)
+    - qn: B->Kll::F_H@LargeRecoil
+      latex: F_\text{H}(\bar{B}\to \bar{K}\ell^+\ell^-)
+    - qn: B->Kll::R_K(s)@LargeRecoil
+      latex: R_K(q^2)
+    - qn: B->Kll::R_K@LargeRecoil
+      latex: R_K
+    - qn: B->Kll::dBR/ds@LargeRecoil
+      latex: d\mathcal{B}(\bar{B}\to \bar{K}\ell^+\ell^-)/dq^2
+    - qn: B->Kll::d^2Gamma@LargeRecoil
+      latex: d^2\mathcal{\Gamma(\bar{B}\to \bar{K}\ell^+\ell^-)}/(dq^2\, d\cos\theta_\ell)
+  - title: Observables in $B_q \to V gamma$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour.
+    entries: []
+  - title: Observables in $B_q \to V \ell^+\ell^-$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour.
+    entries: []
+  - title: Observables in $\Lambda_b \to \Lambda\ell^+\ell^-$ decays
+    desc: The option "l" selects the charged lepton flavour.
+    entries:
+    - qn: Lambda_b->Lambdall::A_FB^c@LargeRecoil
+      latex: A_\text{FB}^{h,\ell}(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::A_FB^c@LowRecoil
+      latex: A_\text{FB}^{h,\ell}(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::A_FB^h@LargeRecoil
+      latex: A_\text{FB}^h(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::A_FB^h@LowRecoil
+      latex: A_\text{FB}^h(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::A_FB^l@LargeRecoil
+      latex: A_\text{FB}^\ell(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::A_FB^l@LowRecoil
+      latex: A_\text{FB}^\ell(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::BR@LargeRecoil
+      latex: \mathcal{B}(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::BR@LowRecoil
+      latex: \mathcal{B}(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::F_0@LargeRecoil
+      latex: F_0(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::F_0@LowRecoil
+      latex: F_0(\Lambda_b\to\Lambda\ell^+\ell^-)
+    - qn: Lambda_b->Lambdall::dBR/dq2@LargeRecoil
+      latex: d\mathcal{B}(\Lambda_b\to\Lambda\ell^+\ell^-)/dq^2
+    - qn: Lambda_b->Lambdall::dBR/dq2@LowRecoil
+      latex: d\mathcal{B}(\Lambda_b\to\Lambda\ell^+\ell^-)/dq^2
+  - title: Observables in $B \to X_s \lbrace \gamma, \ell^+\ell^-\rbrace$ decays
+    desc: The option "l" selects the charged lepton flavour. The option "q" selects
+      the spectator quark flavour.
+    entries: []
+- title: Form factors
+  groups:
+  - title: Form factors for $B\to \pi$ transitions
+    desc: Pseudo observables representing the full basis of $B\to \pi$ form factors.
+      The specific parametrization can be chosen via the "form-factors" option.
+    entries:
+    - qn: B->pi::f_+''(q2)
+      latex: f_+^{'',B\to\pi}(q^2)
+    - qn: B->pi::f_+'(q2)
+      latex: f_+^{',B\to\pi}(q^2)
+    - qn: B->pi::f_+(q2)
+      latex: f_+^{B\to\pi}(q^2)
+    - qn: B->pi::f_-(q2)
+      latex: f_-^{B\to\pi}(q^2)
+    - qn: B->pi::f_0(q2)
+      latex: f_0^{B\to\pi}(q^2)
+    - qn: B->pi::f_T(q2)
+      latex: f_T^{B\to\pi}(q^2)
+  - title: Form factors for $B\to K$ transitions
+    desc: Pseudo observables representing the full basis of $B\to K$ form factors.
+      The specific parametrization can be chosen via the "form-factors" option.
+    entries:
+    - qn: B->K::f_+(q2)
+      latex: f_+^{B\to K}(q^2)
+    - qn: B->K::f_-(q2)
+      latex: f_-^{B\to K}(q^2)
+    - qn: B->K::f_0(q2)
+      latex: f_0^{B\to K}(q^2)
+    - qn: B->K::f_T(q2)
+      latex: f_T^{B\to K}(q^2)
+  - title: Form factors for $B\to \bar{D}$ transitions
+    desc: Pseudo observables representing the full basis of $B\to\bar{D}$ form factors.
+      The specific parametrization can be chosen via the "form-factors" option.
+    entries:
+    - qn: B->D::f_+(q2)
+      latex: f_+^{B\to \bar{D}}(q^2)
+    - qn: B->D::f_-(q2)
+      latex: f_-^{B\to \bar{D}}(q^2)
+    - qn: B->D::f_0(q2)
+      latex: f_0^{B\to \bar{D}}(q^2)
+    - qn: B->D::f_T(q2)
+      latex: f_T^{B\to \bar{D}}(q^2)
+  - title: Form factors for $B\to \rho$ transitions
+    desc: Pseudo observables representing the full basis of $B\to \rho$ form factors.
+      The specific parametrization can be chosen via the "form-factors" option.
+    entries:
+    - qn: B->rho::A_0(q2)
+      latex: A_0^{B\to \rho}(q^2)
+    - qn: B->rho::A_1(q2)
+      latex: A_1^{B\to \rho}(q^2)
+    - qn: B->rho::A_12(q2)
+      latex: A_{12}^{B\to \rho}(q^2)
+    - qn: B->rho::A_2(q2)
+      latex: A_2^{B\to \rho}(q^2)
+    - qn: B->rho::T_1(q2)
+      latex: T_1^{B\to \rho}(q^2)
+    - qn: B->rho::T_2(q2)
+      latex: T_2^{B\to \rho}(q^2)
+    - qn: B->rho::T_23(q2)
+      latex: T_{23}^{B\to \rho}(q^2)
+    - qn: B->rho::T_3(q2)
+      latex: T_3^{B\to \rho}(q^2)
+    - qn: B->rho::V(q2)
+      latex: V^{B\to \rho}(q^2)
+  - title: Form factors for $B\to K^*$ transitions
+    desc: Pseudo observables representing the full basis of $B\to K^*$ form factors.
+      The specific parametrization can be chosen via the "form-factors" option.
+    entries: []
+  - title: Form factors for $B\to \bar{D}^*$ transitions
+    desc: Pseudo observables representing the full basis of $B\to \bar{D}^*$ form
+      factors. The specific parametrization can be chosen via the "form-factors" option.
+    entries: []
+  - title: Form factors for $B_s\to \bar{K}^*$ transitions
+    desc: Pseudo observables representing the full basis of $B_s\to \bar{K}^*$ form
+      factors. The specific parametrization can be chosen via the "form-factors" option.
+    entries:
+    - qn: B_s->K^*::A_0(q2)
+      latex: A_0^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::A_1(q2)
+      latex: A_1^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::A_12(q2)
+      latex: A_{12}^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::A_2(q2)
+      latex: A_2^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::T_1(q2)
+      latex: T_1^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::T_2(q2)
+      latex: T_2^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::T_23(q2)
+      latex: T_{23}^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::T_3(q2)
+      latex: T_3^{B_s\to \bar{K}^*}(q^2)
+    - qn: B_s->K^*::V(q2)
+      latex: V^{B_s\to \bar{K}^*}(q^2)
+  - title: Form factors for $B_s\to \bar{K}^*$ transitions
+    desc: Pseudo observables representing the full basis of $B_s\to \bar{K}^*$ form
+      factors. The specific parametrization can be chosen via the "form-factors" option.
+    entries:
+    - qn: B->pipi::Im{F_long}(q2,k2,z)
+      latex: \text{Im}\,F_0^{B\to \pi\pi}(q^2,k^2,z)
+    - qn: B->pipi::Im{F_para}(q2,k2,z)
+      latex: \text{Im}\,F_\parallel^{B\to \pi\pi}(q^2,k^2,z)
+    - qn: B->pipi::Im{F_perp}(q2,k2,z)
+      latex: \text{Im}\,F_\perp^{B\to \pi\pi}(q^2,k^2,z)
+    - qn: B->pipi::Im{F_time}(q2,k2,z)
+      latex: \text{Im}\,F_t^{B\to \pi\pi}(q^2,k^2,z)
+    - qn: B->pipi::Im{Res{F_long}}(q2,k2)
+      latex: \text{Res}\,\text{Im}\,F_0^{B\to \pi\pi}(q^2,k^2,z)
+    - qn: B->pipi::Im{Res{F_para}}(q2,k2)
+      latex: \text{Res}\,\text{Im}\,F_\parallel^{B\to \pi\pi}(q^2,k^2,z)
+    - qn: B->pipi::Im{Res{F_perp}}(q2,k2)
+      latex: \text{Res}\,\text{Im}\,F_\perp^{B\to \pi\pi}(q^2,k^2,z)
+    - qn: B->pipi::Im{Res{F_time}}(q2,k2)
+      latex: \text{Res}\,\text{Im}\,F_t^{B\to \pi\pi}(q^2,k^2,z)
+  - title: Form factors for $\Lambda_b \to \Lambda$ transitions
+    desc: Pseudo observables representing the full basis of $\Lambda_b \to \Lambda$
+      form factors. The specific parametrization can be chosen via the "form-factors"
+      option.
+    entries:
+    - qn: Lambda_b->Lambda::f_long^A(q2)
+      latex: f_0^{A,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_long^T(q2)
+      latex: f_0^{T,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_long^T5(q2)
+      latex: f_0^{T5,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_long^V(q2)
+      latex: f_0^{V,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_perp^A(q2)
+      latex: f_\perp^{A,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_perp^T(q2)
+      latex: f_\perp^{T,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_perp^T5(q2)
+      latex: f_\perp^{T5,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_perp^V(q2)
+      latex: f_\perp^{V,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_time^A(q2)
+      latex: f_t^{A,\Lambda_b\to\Lambda}(q^2)
+    - qn: Lambda_b->Lambda::f_time^V(q2)
+      latex: f_t^{V,\Lambda_b\to\Lambda}(q^2)
+  - title: Form factors for $\Lambda_b \to \Lambda_c$ transitions
+    desc: Pseudo observables representing the full basis of $\Lambda_b \to \Lambda_c$
+      form factors. The specific parametrization can be chosen via the "form-factors"
+      option.
+    entries:
+    - qn: Lambda_b->Lambda_c::f_long^A(q2)
+      latex: f_0^{A,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_long^T(q2)
+      latex: f_0^{T,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_long^T5(q2)
+      latex: f_0^{T5,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_long^V(q2)
+      latex: f_0^{V,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_perp^A(q2)
+      latex: f_\perp^{A,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_perp^T(q2)
+      latex: f_\perp^{T,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_perp^T5(q2)
+      latex: f_\perp^{T5,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_perp^V(q2)
+      latex: f_\perp^{V,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_time^A(q2)
+      latex: f_t^{A,\Lambda_b\to\Lambda_c}(q^2)
+    - qn: Lambda_b->Lambda_c::f_time^V(q2)
+      latex: f_t^{V,\Lambda_b\to\Lambda_c}(q^2)
+
