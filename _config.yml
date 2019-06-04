@@ -4,7 +4,7 @@ markdown:         kramdown
 # Permalinks
 permalink:        pretty
 
-plugins:             [ jekyll-paginate, jekyll-email-protect ]
+gems:             [ jekyll-paginate, jekyll-email-protect ]
 
 # Setup
 title:            'EOS'
