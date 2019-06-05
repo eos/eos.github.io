@@ -26,6 +26,10 @@
   status: 'active'
   mail:   'ahmetkokulu@gmail.com'
 
+- name:   'Stephan K&uuml;rten'
+  status: 'active'
+  mail:   'stephan.kuerten91@gmail.com'
+
 - name:   'Eduardo Romero'
   status: 'retired'
 
