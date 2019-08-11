@@ -1,3 +1,9 @@
+- year: '2019'
+  items:
+      - id:      '01'
+        title:   'Angular Analysis of &Lambda;<sub>b</sub> &#8594; &Lambda;<sub>c</sub> &ell;<sup>-</sup> &nu;'
+        authors: [ 'P.&nbsp;B&ouml;er' ]
+        arxiv:   '1907.12554'
 - year: '2018'
   items:
       - id:      '02'
