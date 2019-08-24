@@ -1,5 +1,9 @@
 - year: '2019'
   items:
+      - id:      '02'
+        title:   'Theory Determination of B&rarr;D<sup>(&ast;)</sup>&ell;<sup>-</sup> &nu; form factors at O(1/m<sub>c</sub>)'
+        authors: [ 'M.&nbsp;Bordone', 'M.&nbsp;Jung', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1908.09398'
       - id:      '01'
         title:   'Angular Analysis of &Lambda;<sub>b</sub> &#8594; &Lambda;<sub>c</sub> &ell;<sup>-</sup> &nu;'
         authors: [ 'P.&nbsp;B&ouml;er', 'A.&nbsp;Kokulu', 'J.N.&nbsp;Toelstede', 'D.&nbsp;van&nbsp;Dyk' ]
