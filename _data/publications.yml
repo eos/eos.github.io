@@ -1,5 +1,9 @@
 - year: '2019'
   items:
+      - id:      '04'
+        title:   'Heavy-Quark Expansion for B<sub>s</sub>&rarr;D<sub>s</sub><sup>(&ast;)</sup> Form Factors and Unitarity Bounds beyond the SU(3)<sub>F</sub> Limit'
+        authors: [ 'M.&nbsp;Bordone', 'N.&nbsp;Gubernari', 'M.&nbsp;Jung', 'D.&nbsp;van&nbsp;Dyk' ]
+        arxiv:   '1912.09335'
       - id:      '03'
         title:   'Bayesian analysis of b&rarr;s&mu;<sup>+</sup>&mu;<sup>-</sup> Wilson coefficients using the full angular distribution of &Lambda;<sub>b</sub>&rarr;&Lambda;(&rarr; p &pi;<sup>-</sup>)&mu;<sup>+</sup>&mu;<sup>-</sup> decays'
         authors: [ 'T.&nbsp;Blake', 'S.&nbsp;Meinel', 'D.&nbsp;van&nbsp;Dyk' ]
