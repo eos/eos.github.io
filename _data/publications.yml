@@ -1,3 +1,9 @@
+- year: '2020'
+  items:
+      - id:      '01'
+        title:   'Non-local matrix elements in B<sub>(s)</sub> &rarr; {K<sup>(&ast;)</sup>,&phi;} &ell;<sup>+</sup>&ell;<sup>-</sup>'
+        authors: [ 'N.&nbsp;Gubernari', 'D.&nbsp;van&nbsp;Dyk', 'J.&nbsp;Virto' ]
+        arxiv:   '2011.09813'
 - year: '2019'
   items:
       - id:      '04'
