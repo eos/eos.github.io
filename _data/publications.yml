@@ -1,5 +1,9 @@
 - year: '2021'
   items:
+      - id:      '02'
+        title:   'The B&rarr;&pi; form factors from QCD and their impact on |V<sub>ub</sub>|'
+        authors: [ 'D.&nbsp;Leljak', 'D.&nbsp;van&nbsp;Dyk', 'B.&nbsp;Meli&#263;' ]
+        arxiv:   '2102.07233'
       - id:      '01'
         title:   'The Flavor of UV Physics'
         authors: [ 'S.&nbsp;Bruggisser', 'R.&nbsp;Sch&auml;fer', 'D.&nbsp;van&nbsp;Dyk', 'S.&nbsp;Westhoff' ]
