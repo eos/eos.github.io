@@ -1,7 +1,7 @@
 - year: '2021'
   items:
       - id:      '03'
-        title:   'Lepton-flavour non-universality of B&rarr;D<sup>&ast;</sup>&ell;<sup>-</sup> &nu; angular distributions in and beyond the Standard Model'
+        title:   'Lepton-flavour non-universality of B&rarr;D<sup>&lowast;</sup>&ell;<sup>-</sup> &nu; angular distributions in and beyond the Standard Model'
         authors: [ 'Ch.&nbsp;Bobeth', 'M.&nbsp;Bordone', 'N.&nbsp;Gubernari', 'M.&nbsp;Jung', 'D.&nbsp;van&nbsp;Dyk' ]
         arxiv:   '2104.02094'
       - id:      '02'
@@ -15,13 +15,13 @@
 - year: '2020'
   items:
       - id:      '01'
-        title:   'Non-local matrix elements in B<sub>(s)</sub> &rarr; {K<sup>(&ast;)</sup>,&phi;} &ell;<sup>+</sup>&ell;<sup>-</sup>'
+        title:   'Non-local matrix elements in B<sub>(s)</sub> &rarr; {K<sup>(&lowast;)</sup>,&phi;} &ell;<sup>+</sup>&ell;<sup>-</sup>'
         authors: [ 'N.&nbsp;Gubernari', 'D.&nbsp;van&nbsp;Dyk', 'J.&nbsp;Virto' ]
         arxiv:   '2011.09813'
 - year: '2019'
   items:
       - id:      '04'
-        title:   'Heavy-Quark Expansion for B<sub>s</sub>&rarr;D<sub>s</sub><sup>(&ast;)</sup> Form Factors and Unitarity Bounds beyond the SU(3)<sub>F</sub> Limit'
+        title:   'Heavy-Quark Expansion for B<sub>s</sub>&rarr;D<sub>s</sub><sup>(&lowast;)</sup> Form Factors and Unitarity Bounds beyond the SU(3)<sub>F</sub> Limit'
         authors: [ 'M.&nbsp;Bordone', 'N.&nbsp;Gubernari', 'M.&nbsp;Jung', 'D.&nbsp;van&nbsp;Dyk' ]
         arxiv:   '1912.09335'
       - id:      '03'
@@ -29,7 +29,7 @@
         authors: [ 'T.&nbsp;Blake', 'S.&nbsp;Meinel', 'D.&nbsp;van&nbsp;Dyk' ]
         arxiv:   '1912.05811'
       - id:      '02'
-        title:   'Theory Determination of B&rarr;D<sup>(&ast;)</sup>&ell;<sup>-</sup> &nu; form factors at O(1/m<sub>c</sub>)'
+        title:   'Theory Determination of B&rarr;D<sup>(&lowast;)</sup>&ell;<sup>-</sup> &nu; form factors at O(1/m<sub>c</sub>)'
         authors: [ 'M.&nbsp;Bordone', 'M.&nbsp;Jung', 'D.&nbsp;van&nbsp;Dyk' ]
         arxiv:   '1908.09398'
       - id:      '01'
