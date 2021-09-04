@@ -1,3 +1,8 @@
+- year: '2019'
+  items:
+      - venue: 'DPG Spring Meeting Aachen, Germany, March 27th, 2019'
+        presenter: 'Ahmet Kokulu'
+
 - year:  '2018'
   items:
       - venue: 'MITP, 2018, Challenges in Semileptonic B Decays'
