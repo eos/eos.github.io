@@ -4,13 +4,13 @@ markdown:         kramdown
 # Permalinks
 permalink:        pretty
 
-gems:             [ jekyll-paginate, jekyll-email-protect ]
+plugins:          [ jekyll-paginate, jekyll-email-protect ]
 
 # Setup
 title:            'EOS'
-tagline:          'A HEP program for flavor physics'
+tagline:          'A software for flavor physics phenomenology'
 description:      ''
-url:              http://project.het.physik.tu-dortmund.de/eos
+url:              http://eos.github.io/
 
 paginate:         5
 
