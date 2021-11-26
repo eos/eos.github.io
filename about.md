@@ -75,7 +75,7 @@ If you use EOS in a scientific publication, please cite it using the following B
 The main authors are:
 
  * Danny van Dyk <danny.van.dyk@gmail.com>,
- * Frederik Beaujean <beaujean@mpp.mpg.de>,
+ * Frederik Beaujean,
  * Christoph Bobeth <christoph.bobeth@gmail.com>,
  * Nico Gubernari <nicogubernari@gmail.com>,
  * Meril Reboud <reboud@gmail.com>,
