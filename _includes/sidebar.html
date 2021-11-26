@@ -29,16 +29,16 @@
     <div class="sidebar-about">
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item">The most recent release is:<br/><a href="http://dx.doi.org/{{ site.doi }}"><img src="https://zenodo.org/badge/doi/{{ site.doi }}.svg" /></a></li>
-      <li class="sidebar-nav-item" style="margin-bottom: -15px">
+      <li class="sidebar-nav-item" style="margin-bottom: -20px">
           <a href="https://github.com"><img src="/images/github-logo.png" width="30%"/></a>
       </li>
       <ul>
           <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Source</a></li>
-          <li class="sidebar-nav-item"><a href="{{ site.github.repo }}/issues">Issue Tracker</a></li>
-          <li class="sidebar-nav-item"><img src="{{ site.github.repo }}/actions/workflows/ubuntu-build+check+deploy.yaml/badge.svg?branch=master" /></li>
+          <li class="sidebar-nav-item" style="margin-bottom: +10px"><a href="{{ site.github.repo }}/issues">Issue Tracker</a></li>
+          <li class="sidebar-nav-item" style="margin-bottom: -5px"><img src="{{ site.github.repo }}/actions/workflows/ubuntu-build+check+deploy.yaml/badge.svg?branch=master" /></li>
           <li class="sidebar-nav-item"><img src="{{ site.github.repo }}/actions/workflows/manylinux-build+check+deploy.yaml/badge.svg?branch=master" /></li>
       </ul>
-      <li class="sidebar-nav-item" style="margin-bottom: -15px">
+      <li class="sidebar-nav-item">
           <a href="https://pypi.org">PyPI</a
       </li>
       <ul>
