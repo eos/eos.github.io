@@ -45,30 +45,15 @@ Authors and Contributors
 
 If you use EOS in a scientific publication, please cite it using the following BibTeX entry:
 
-    @manual{EOS,
-        title     = "{\texttt{EOS} v1.0 --- A software for flavor physics phenomenology}",
-        DOI       = {10.5281/zenodo.5730384},
-        journal   = {Zenodo},
-        author    = "Danny van Dyk and
-                     Frederik Beaujean and
-                     Thomas Blake and
-                     Christoph Bobeth and
-                     Marzia Bordone and
-                     Eike Eberhard and
-                     Elena Graverini and
-                     Nico Gubernari and
-                     Ahmet Kokulu and
-                     Stephan Kürten and
-                     Domagoj Leljak and
-                     Philip Lüghausen and
-                     Méril Reboud and
-                     Martin Ritter and
-                     Eduardo Romero and
-                     Ismo Toijala and
-                     K.~Keri Vos
-                    ",
-        year      = "2021",
-        month     = "Nov"
+    @article{vanDyk:2021sup,
+      author        = "van Dyk, Danny and others",
+      title         = "{EOS - A Software for Flavor Physics Phenomenology}",
+      eprint        = "2111.15428",
+      archivePrefix = "arXiv",
+      primaryClass  = "hep-ph",
+      reportNumber  = "EOS-2021-04, TUM-HEP 1371/21, P3H-21-094, SI-HEP-2021-32",
+      month         = "11",
+      year          = "2021"
     }
 
 
