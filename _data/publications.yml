@@ -1,5 +1,9 @@
 - year: '2021'
   items:
+      - id:      '04'
+        title:   'EOS - A Software for Flavor Physics Phenomenology'
+        authors: [D.&nbsp;van Dyk, F.&nbsp;Beaujean, Th.&nbsp;Blake, Ch.&nbsp;Bobeth, M.&nbsp;Bordone, K.&nbsp;Dugic, E.&nbsp;Eberhard, N.&nbsp;Gubernari, E.&nbsp;Graverini, M.&nbsp;Jung, A.&nbsp;Kokulu, St.&nbsp;Kürten, D.&nbsp;Leljak, Ph.&nbsp;Lüghausen, St.&nbsp;Meiser, M.&nbsp;Rahimi, M.&nbsp;Reboud, R.&nbsp;Silva Coutinho, J.&nbsp;Virto, K.&nbsp;K.&nbsp;Vos]
+        arxiv:   '2111.15428'
       - id:      '03'
         title:   'Lepton-flavour non-universality of B&rarr;D<sup>&lowast;</sup>&ell;<sup>-</sup> &nu; angular distributions in and beyond the Standard Model'
         authors: [ 'Ch.&nbsp;Bobeth', 'M.&nbsp;Bordone', 'N.&nbsp;Gubernari', 'M.&nbsp;Jung', 'D.&nbsp;van&nbsp;Dyk' ]
