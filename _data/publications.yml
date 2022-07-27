@@ -1,5 +1,9 @@
 - year: '2022'
   items:
+      - id:      '02'
+        title:   'Improved Theory Predictions and Global Analysis of Exclusive b&rarr;s&mu;<sup>+</sup>&mu;<sup>-</sup> Processes'
+        authors: [N.&nbsp;Gubernari, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk, J.&nbsp;Virto]
+        arxiv:   '2206.03797'
       - id:      '01'
         title:   'Dispersive bounds for local form factors in &Lambda;<sub>b</sub>&rarr;&Lambda; transitions'
         authors: [Th.&nbsp;Blake, S.&nbsp;Meinel, M.&nbsp;Rahimi, D.&nbsp;van&nbsp;Dyk]
