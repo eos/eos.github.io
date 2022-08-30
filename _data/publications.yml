@@ -1,5 +1,9 @@
 - year: '2022'
   items:
+      - id:      '03'
+        title:   'Dispersive analysis of &Lambda;<sub>b</sub>&rarr;&Lambda;(1520) local form factors'
+        authors: [Y.&nbsp;Amhis, M.&nbsp;Bordone, M.&nbsp;Reboud]
+        arxiv:   '2208.08937'
       - id:      '02'
         title:   'Improved Theory Predictions and Global Analysis of Exclusive b&rarr;s&mu;<sup>+</sup>&mu;<sup>-</sup> Processes'
         authors: [N.&nbsp;Gubernari, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk, J.&nbsp;Virto]
