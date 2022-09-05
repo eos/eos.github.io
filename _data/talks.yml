@@ -1,3 +1,23 @@
+- year: '2022'
+  items:
+      - venue: 'Quirks in Quark Flavor Physics, June 14th, 2022'
+        presenter: 'Meril Reboud'
+        file: 'reboud-zadar-2022.pdf'
+
+      - venue: 'Beyond the Flavour Anomalies III, Durham, April 27th, 2022'
+        presenter: 'Meril Reboud'
+        file: 'reboud-durham-2022.pdf'
+
+      - venue: 'MIAPP, Munich, March 28th, 2022'
+        presenter: 'Meril Reboud'
+        file: 'reboud-munich-2022.pdf'
+
+- year: '2021'
+  items:
+      - venue: 'Computational Tools for High Energy Physics and Cosmology, Lyon, November 23rd, 2021'
+        presenter: 'Meril Reboud'
+        file: 'reboud-lyon-2021.pdf'
+
 - year: '2019'
   items:
       - venue: 'DPG Spring Meeting Aachen, Germany, March 27th, 2019'
