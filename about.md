@@ -63,7 +63,7 @@ The main authors are:
  * Frederik Beaujean,
  * Christoph Bobeth <christoph.bobeth@gmail.com>,
  * Nico Gubernari <nicogubernari@gmail.com>,
- * Meril Reboud <reboud@gmail.com>,
+ * Meril Reboud <merilreboud@gmail.com>,
 
 with further code contributions by:
 
