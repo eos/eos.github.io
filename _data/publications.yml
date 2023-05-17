@@ -1,5 +1,9 @@
 - year: '2023'
   items:
+      - id:      '02'
+        title:   'Dispersive Analysis of B&rarr;K<sup>&lowast;</sup> and B<sub>s</sub>&rarr;&phi; Form Factors'
+        authors: [N.&nbsp;Gubernari, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk, J.&nbsp;Virto]
+        arxiv:   '2305.06301'
       - id:      '01'
         title:   'Toward a complete description of b&rarr;u&ell;&nu; decays within the Weak Effective Theory'
         authors: [D.&nbsp;Leljak, 'B.&nbsp;Meli&#263;', F.&nbsp;Novak, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk]
