@@ -1,3 +1,9 @@
+- year: '2023'
+  items:
+      - id:      '01'
+        title:   'Toward a complete description of b&rarr;u&ell;&nu; decays within the Weak Effective Theory'
+        authors: [D.&nbsp;Leljak, 'B.&nbsp;Meli&#263;', F.&nbsp;Novak, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk]
+        arxiv:   '2302.05268'
 - year: '2022'
   items:
       - id:      '03'
