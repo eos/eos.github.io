@@ -1,5 +1,9 @@
 - year: '2023'
   items:
+      - id:      '03'
+        title:   'New Determination of |V<sub>ub</sub>V<sub>cb</sub>/| from B<sub>s</sub>&rarr;{K,D<sub>s</sub>}&mu;<sup>-</sup>&nu;'
+        authors: [C.&nbsp;Bolognani, D.&nbsp;van&nbsp;Dyk, K.K.&nbsp;Vos]
+        arxiv:
       - id:      '02'
         title:   'Dispersive Analysis of B&rarr;K<sup>&lowast;</sup> and B<sub>s</sub>&rarr;&phi; Form Factors'
         authors: [N.&nbsp;Gubernari, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk, J.&nbsp;Virto]
