@@ -1,3 +1,13 @@
+- year: '2023'
+  items:
+      - venue: 'Flavour@TH, May 11th, 2023'
+        presenter: 'Meril Reboud'
+        file: 'reboud-cern-2023-02.pdf'
+
+      - venue: 'LHC Heavy Flavour Working Group Report, April 24th, 2023'
+        presenter: 'Meril Reboud'
+        file: 'reboud-cern-2023.pdf'
+
 - year: '2022'
   items:
       - venue: 'Quirks in Quark Flavor Physics, June 14th, 2022'
