@@ -1,3 +1,9 @@
+- year: '2024'
+  items:
+      - id:      '01'
+        title:   'Constructing model-agnostic likelihoods, a method for the reinterpretation of particle physics results'
+        authors: [L.&nbsp;G&auml;rtner, N.&nbsp;Hartmann, L.&nbsp;Heinrich, M.&nbsp;Horstmann, Th.&nbsp;Kuhr, M.&nbsp;Reboud, S.&nbsp;Stefkova, D.&nbsp;van&nbsp;Dyk]
+        arxiv:   '2402.08417'
 - year: '2023'
   items:
       - id:      '04'
