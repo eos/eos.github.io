@@ -1,5 +1,9 @@
 - year: '2023'
   items:
+      - id:      '04'
+        title:   'Analysis of the &psi;(3770) resonance in line with unitarity and analyticity constraints'
+        authors: [C.&nbsp;Hanhart, St.&nbsp;K&uuml;rten, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk]
+        arxiv:   '2312.00619'
       - id:      '03'
         title:   'New Determination of |V<sub>ub</sub>V<sub>cb</sub>/| from B<sub>s</sub><sup>0</sup>&rarr;{K<sup>-</sup>,D<sub>s</sub><sup>-</sup>}&mu;<sup>+</sup>&nu;'
         authors: [C.&nbsp;Bolognani, D.&nbsp;van&nbsp;Dyk, K.K.&nbsp;Vos]
