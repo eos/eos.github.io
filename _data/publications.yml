@@ -1,5 +1,9 @@
 - year: '2024'
   items:
+      - id:      '02'
+        title:   'Constraining |V<sub>cs</sub>| and physics beyond the Standard Model from exclusive (semi)leptonic charm decays'
+        authors: [C.&nbsp;Bolognani, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk, K.K.&nbsp;Vos]
+        arxiv:   '2407.06145'
       - id:      '01'
         title:   'Constructing model-agnostic likelihoods, a method for the reinterpretation of particle physics results'
         authors: [L.&nbsp;G&auml;rtner, N.&nbsp;Hartmann, L.&nbsp;Heinrich, M.&nbsp;Horstmann, Th.&nbsp;Kuhr, M.&nbsp;Reboud, S.&nbsp;Stefkova, D.&nbsp;van&nbsp;Dyk]
