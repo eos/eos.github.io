@@ -1,5 +1,9 @@
 - year: '2024'
   items:
+      - id:      '03'
+        title:   'A Simple Parametrisation of the Pion Form Factor'
+        authors: [M.&nbsp;Kirk, B.&nbsp;Kubis, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk]
+        arxiv:   '2410.13764'
       - id:      '02'
         title:   'Constraining |V<sub>cs</sub>| and physics beyond the Standard Model from exclusive (semi)leptonic charm decays'
         authors: [C.&nbsp;Bolognani, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk, K.K.&nbsp;Vos]
