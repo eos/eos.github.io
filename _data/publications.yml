@@ -1,5 +1,9 @@
 - year: '2024'
   items:
+      - id:      '04'
+        title:   'Towards a Global Analysis of the b&rarr;c&umacr;q Puzzle'
+        authors: [S.&nbsp;Meiser, D.&nbsp;van&nbsp;Dyk, J.&nbsp;Virto]
+        arxiv:   '2411.09458'
       - id:      '03'
         title:   'A Simple Parametrisation of the Pion Form Factor'
         authors: [M.&nbsp;Kirk, B.&nbsp;Kubis, M.&nbsp;Reboud, D.&nbsp;van&nbsp;Dyk]
