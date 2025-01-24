@@ -6,11 +6,11 @@ title: About
 EOS is a software package that addresses several use cases in the field of
 high-energy flavor physics:
 
- 1. [theory predictions of and uncertainty estimation for flavor observables](https://eos.github.io/doc/use-cases.html#theory-predictions-and-their-uncertainties)
+ 1. [theory predictions of and uncertainty estimation for flavor observables](https://eoshep.org/doc/user-guide/predictions.html)
    within the Standard Model or within the Weak Effective Theory;
- 2. [Bayesian parameter inference](https://eos.github.io/doc/use-cases.html#parameter-inference)
+ 2. [Bayesian parameter inference](https://eoshep.org/doc/user-guide/inference.html)
     from both experimental and theoretical constraints; and
- 3. [Monte Carlo simulation of pseudo events](https://eos.github.io/doc/use-cases.html#pseudo-event-simulation) for flavor processes.
+ 3. [Monte Carlo simulation of pseudo events](https://eoshep.org/doc/user-guide/simulation.html) for flavor processes.
 
 An up-to-date list of publications that use EOS can be found [here](https://eos.github.io/publications/).
 
