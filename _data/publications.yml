@@ -4,8 +4,9 @@
         title:   'TBD'
         authors: [F.&nbsp;Herren]
       - id:      '01'
-        title:   'TBD'
+        title:   'Detailed SU(3) Flavour Symmetry Analysis of Charmless Two-Body B-Meson Decays Including Factorizable Corrections'
         authors: [M.&nbsp;Burgos, M.&nbsp;Reboud, K.K.&nbsp;Vos]
+        arxiv:   '2504.05209'
 - year: '2024'
   items:
       - id:      '04'
