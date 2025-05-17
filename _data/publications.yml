@@ -1,8 +1,9 @@
 - year: '2025'
   items:
       - id:      '02'
-        title:   'TBD'
-        authors: [F.&nbsp;Herren]
+        title:   'A model-independent parametrization of B&rarr;&pi;&pi;&scriptell;&nu; decays'
+        authors: [F.&nbsp;Herren, B.&nbsp;Kubis, R.&nbsp;van&nbsp;Tonder]
+        arxiv:   '2502.20960'
       - id:      '01'
         title:   'Detailed SU(3) Flavour Symmetry Analysis of Charmless Two-Body B-Meson Decays Including Factorizable Corrections'
         authors: [M.&nbsp;Burgos, M.&nbsp;Reboud, K.K.&nbsp;Vos]
