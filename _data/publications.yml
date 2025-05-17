@@ -1,5 +1,8 @@
 - year: '2025'
   items:
+      - id:      '03'
+        title:   'Challenging B<sub>(s)</sub>&rarr;D<sub>(s)</sub><sup>(&ast;)</sup> Form Factors with the Heavy Quark Expansion'
+        authors: [M.&nbsp;Bordone, N.&nbsp;Gubernari, M.&nbsp;Jung, D.&nbsp;van&nbsp;Dyk]
       - id:      '02'
         title:   'A model-independent parametrization of B&rarr;&pi;&pi;&scriptell;&nu; decays'
         authors: [F.&nbsp;Herren, B.&nbsp;Kubis, R.&nbsp;van&nbsp;Tonder]
