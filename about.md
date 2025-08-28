@@ -59,22 +59,28 @@ If you use EOS in a scientific publication, please cite it using the following B
 
 The main authors are:
 
- * Danny van Dyk <danny.van.dyk@gmail.com>,
  * Frederik Beaujean,
- * Christoph Bobeth <christoph.bobeth@gmail.com>,
+ * Christoph Bobeth,
+ * Carolina Bolognani <carolinabolognani@gmail.com>,
  * Nico Gubernari <nicogubernari@gmail.com>,
+ * Florian Herren <florian.s.herren@gmail.com>,
+ * Matthew J. Kirk <matthew.j.kirk@durham.ac.uk>,
  * Meril Reboud <merilreboud@gmail.com>,
+ * Danny van Dyk <danny.van.dyk@gmail.com>,
 
 with further code contributions by:
 
  * Marzia Bordone,
  * Thomas Blake,
+ * Lorenz Gaertner,
  * Elena Graverini,
  * Stephan Jahn,
  * Ahmet Kokulu,
+ * Viktor Kuschke,
  * Stephan Kürten,
  * Philip Lüghausen,
  * Bastian Müller,
+ * Filip Novak,
  * Stefanie Reichert,
  * Eduardo Romero,
  * Rafael Silva Coutinho,
