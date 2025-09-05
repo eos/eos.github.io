@@ -1,10 +1,13 @@
 - year: '2025'
   items:
+      - id:      '04'
+        title:   'Form factors and phenomenology of B<sub>(s)</sub> and D<sub>(s)</sub> semileptonic decays to &eta; and &eta;<sup>,</sup>'
+        authors: [B.&nbsp;Meli&#263;, M.&nbsp;Reboud]
       - id:      '03'
-        title:   'Challenging B<sub>(s)</sub>&rarr;D<sub>(s)</sub><sup>(&ast;)</sup> Form Factors with the Heavy Quark Expansion'
+        title:   'Challenging B<sub>(s)</sub>&rarr;D<sub>(s)</sub><sup>(</sup>&ast;<sup>)</sup> Form Factors with the Heavy Quark Expansion'
         authors: [M.&nbsp;Bordone, N.&nbsp;Gubernari, M.&nbsp;Jung, D.&nbsp;van&nbsp;Dyk]
       - id:      '02'
-        title:   'A model-independent parametrization of B&rarr;&pi;&pi;&scriptell;&nu; decays'
+        title:   'A model-independent parametrization of B&rarr;&pi;&pi;&ell;&nu; decays'
         authors: [F.&nbsp;Herren, B.&nbsp;Kubis, R.&nbsp;van&nbsp;Tonder]
         arxiv:   '2502.20960'
       - id:      '01'
