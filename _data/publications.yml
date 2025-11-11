@@ -1,5 +1,9 @@
 - year: '2025'
   items:
+      - id:      '05'
+        title:   'A Global Determination of |V<sub>us</sub>|'
+        authors: [M.&nbsp;Kirk, D.&nbsp;van&nbsp;Dyk]
+        arxiv:   '2511.xxxxx'
       - id:      '04'
         title:   'Form factors and phenomenology of B<sub>(s)</sub> and D<sub>(s)</sub> semileptonic decays to &eta; and &eta;<sup>,</sup>'
         authors: [B.&nbsp;Meli&#263;, M.&nbsp;Reboud]
