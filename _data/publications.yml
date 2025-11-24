@@ -1,5 +1,9 @@
 - year: '2025'
   items:
+      - id:      '06'
+        title:   'Exploiting Perpendicular Momentum Distributions of Semileptonic Decays: B<sub>s<sub><sup>0</sup> &rarr;D<sub>(s)</sub><sup>+</sup> &mu;<sup>-</sup> &nu; as a Case Study'
+        authors: [C.&nbsp;Earnshaw, B.&nbsp;Mitreska, D.&nbsp;van&nbsp;Dyk]
+        arxiv:   '2512.xxxxx'
       - id:      '05'
         title:   'A Global Determination of |V<sub>us</sub>|'
         authors: [M.&nbsp;Kirk, D.&nbsp;van&nbsp;Dyk]
